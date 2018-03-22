@@ -1,9 +1,0 @@
-platform:ios,'8.0'
-use_frameworks!
-target 'WeiBoCoding' do
-pod 'QorumLogs', '~> 0.9'
-pod 'AFNetworking', '~> 3.2.0'
-pod 'Alamofire', '~> 4.6.0'
-pod 'SnapKit', '~> 4.0.0'
-
-end

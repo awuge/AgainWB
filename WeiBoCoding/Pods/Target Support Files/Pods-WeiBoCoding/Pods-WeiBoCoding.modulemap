@@ -1,6 +1,0 @@
-framework module Pods_WeiBoCoding {
-  umbrella header "Pods-WeiBoCoding-umbrella.h"
-
-  export *
-  module * { export * }
-}
